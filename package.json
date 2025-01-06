@@ -1,13 +1,17 @@
 {
-  "name": "image-carousel",
+  "name": "htkael-image-carousel",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple image carousel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "image",
+    "carousel",
+    "ui"
+  ],
+  "author": "Hunter Kael <htkael@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",
